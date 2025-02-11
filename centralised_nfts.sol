@@ -6,7 +6,8 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract WatergunsV5 is ERC721URIStorage, Ownable {
+// Edit the contract name below
+contract YOURCONTRACTNAMEHERE is ERC721URIStorage, Ownable {
     uint256 public currentTokenId;
 
 // Edit Max Supply below
