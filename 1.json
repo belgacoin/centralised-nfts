@@ -1,0 +1,20 @@
+{
+    "name": "Waterguns inc.",
+    "description": "The Watergun Collection",
+    "image": "https://block32.be/images/1.png" ,
+    "attributes":[
+      {
+          "trait_type": "capacity",
+          "value": "250 ML"
+      },
+      {
+          "trait_type": "type",
+          "value": "Supersoaker"
+      },
+      {
+          "trait_type": "material",
+          "value": "Polycarbonate"
+      }
+  ]
+}
+  
