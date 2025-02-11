@@ -1,7 +1,7 @@
 {
     "name": "Waterguns inc.",
     "description": "The Watergun Collection",
-    "image": "https://block32.be/images/1.png" ,
+    "image": "https://YOURDOMAIN.COM/images/1.png" ,
     "attributes":[
       {
           "trait_type": "capacity",
