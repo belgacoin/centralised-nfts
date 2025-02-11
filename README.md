@@ -14,6 +14,7 @@ In my example, the necessary JSON files (one per image) are stored in the JSON f
 
 Folder structure in my example:
 
+```
 / (Server Root)
 │── index.html
 │── json/
@@ -34,7 +35,7 @@ Folder structure in my example:
 │   ├── 6.png
 │   ├── 7.png
 │   ├── 8.png
-
+```
 index.html → Main webpage (optional but recommended).
 json/ folder → Contains metadata JSON files (1.json, 2.json, etc.).
 images/ folder → Contains image files (1.png, 2.png, etc.).
